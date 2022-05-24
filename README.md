@@ -1,3 +1,5 @@
+# THIS PROJECT HAS MOVED TO [SOURCEHUT](https://git.sr.ht/~raiguard/FluidMustFlow)
+
 # Fluid Must Flow
 
 A mod for Factorio that adds enormous ducts for transporting large volumes of liquids and gases.
